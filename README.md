@@ -1,4 +1,4 @@
-# terraform-qingcloud [![Build Status](https://travis-ci.org/CuriosityChina/terraform-qingcloud.svg?branch=master)](https://travis-ci.org/CuriosityChina/terraform-qingcloud)
+# terraform-qingcloud
 Terraform 的 QingCloud 插件
 
 # 使用方式
