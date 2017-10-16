@@ -1,3 +1,5 @@
+**This repo is deprecated. Please move to [yunify/qingcloud-terraform-provider](https://github.com/yunify/qingcloud-terraform-provider)**
+
 # terraform-qingcloud [![Build Status](https://travis-ci.org/CuriosityChina/terraform-qingcloud.svg?branch=master)](https://travis-ci.org/CuriosityChina/terraform-qingcloud)
 
 Old version can found on [v1](https://github.com/CuriosityChina/terraform-qingcloud/tree/v1) branch
